@@ -1,6 +1,7 @@
 streamlit
 kagglehub
 ultralytics
+lapx
 opencv-python-headless
 numpy
 pandas
