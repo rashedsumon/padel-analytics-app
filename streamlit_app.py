@@ -1,4 +1,4 @@
-import streamlit as tf
+import streamlit as st  # Fixed alias from 'tf' to 'st'
 import cv2
 import numpy as np
 import tempfile
