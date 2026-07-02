@@ -1,0 +1,7 @@
+streamlit
+kagglehub
+ultralytics
+opencv-python-headless
+numpy
+pandas
+opencv-contrib-python-headless

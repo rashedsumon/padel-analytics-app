@@ -1,0 +1,12 @@
+# Exclude datasets and system caches
+.kaggle/
+datasets/
+__pycache__/
+*.pyc
+
+# Streamlit local config
+.streamlit/
+
+# Virtual Environment
+venv/
+.env
